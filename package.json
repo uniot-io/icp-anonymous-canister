@@ -1,0 +1,25 @@
+{
+  "name": "icp-anonymous-canister",
+  "version": "1.0.0",
+  "description": "This project is designed to facilitate local testing of ICP's Internet Identity, focusing primarily on the interaction with alternative frontend origins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniot-io/icp-anonymous-canister.git"
+  },
+  "author": "vldmkr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uniot-io/icp-anonymous-canister/issues"
+  },
+  "homepage": "https://github.com/uniot-io/icp-anonymous-canister#readme",
+  "dependencies": {
+    "@dfinity/principal": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
