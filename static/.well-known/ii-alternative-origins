@@ -3,10 +3,9 @@
     "https://uniot.io",
     "https://oracles.uniot.io",
     "https://dev.uniot.io",
-    "https://dev.uniot.io/profile",
     "https://demo.uniot.io",
-    "https://demo.uniot.io/profile",
-    "http://localhost:8080/profile",
+    "http://127.0.0.1:8080",
+    "http://localhost:8080",
     "http://127.0.0.1:4943",
     "http://localhost:4943"
   ]
